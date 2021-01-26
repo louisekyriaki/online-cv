@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Louise Kyriaki
-    tagline: Research Associate
+    tagline: Academic Researcher
     avatar: louise.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -19,17 +19,19 @@ sidebar:
 career-profile:
     title: Who I am
     summary: |
-      I am a research scientist in the field of cognitive neuroscience.
+      I am a research scientist in the fields of cognitive neuroscience and psychology.
       I have a particular interest in language processing at the sentence
       level and beyond. I have a strong focus on science replicability,
-      experimental methodology, and statistical analysis. 
+      experimental methodology, and statistical analysis. I recently submitted my PhD
+      and am now working as a researcher at the University of South Australia. 
       
-      My particular methodologies of experience/interest are:
+      My particular areas of experience/interest are:
       - electroencephalography
       - eye-tracking
       - transcranial magnetic stimulation
       - preprocessing neurophysiologial data in MNE-Python
       - mixed effects modeling and latent growth modeling in R
+      - open science and open access
      
 education:
     - degree: PhD in Psychology (Cognitive Neuroscience)
@@ -46,6 +48,8 @@ education:
 
 publications:
     title: Publications
+    intro: Click the paper name to access the online article.
+    #For more, see <a href="https://linkhere">namehere</a>.
     papers:
       - title: "Semantic reversal anomalies under the microscope: Task and modality influences on language-associated event-related potentials"
         link: "#https://doi.org/10.1111/ejn.14862"
