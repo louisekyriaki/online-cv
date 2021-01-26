@@ -16,7 +16,7 @@ sidebar:
     github: louisekyriaki
 
 career-profile:
-    title: Career Profile
+    title: Who I am
     summary: |
       I am a research scientist in the field of congnitive neuroscience.
       I have a particular interest in language processing at the sentence
@@ -30,7 +30,7 @@ career-profile:
       - preprocessing neurophysiologial data in MNE-Python
       - mixed effects modeling and latent growth modeling in R
       
-      See my open access data and scripts here: "#htps://osf.io/uzeqy"
+      See my open access data and scripts here: https://osf.io/uzeqy
      
 education:
     - degree: PhD in Psychology (Cognitive Neuroscience)
