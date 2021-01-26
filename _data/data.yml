@@ -14,6 +14,7 @@ sidebar:
     # Sidebar links
     twitter: '@louisekyriaki'
     github: louisekyriaki
+    osf: '#https://osf.io/uzeqy'
 
 career-profile:
     title: Who I am
@@ -29,8 +30,6 @@ career-profile:
       - transcranial magnetic stimulation
       - preprocessing neurophysiologial data in MNE-Python
       - mixed effects modeling and latent growth modeling in R
-      
-      See my open access data and scripts here: https://osf.io/uzeqy
      
 education:
     - degree: PhD in Psychology (Cognitive Neuroscience)
