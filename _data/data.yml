@@ -52,20 +52,16 @@ publications:
     intro: Click the paper name to access the online article.
     #For more, see <a href="https://linkhere">namehere</a>.
     papers:
-      - title: <a href = "https://doi.org/10.1111/ejn.14862">Semantic reversal anomalies under the microscope: Task and modality influences on language-associated event-related potentials</a>
-        #link: "#https://doi.org/10.1111/ejn.14862"
+      - title: <a href = "https://onlinelibrary.wiley.com/doi/10.1111/ejn.14862">Semantic reversal anomalies under the microscope: Task and modality influences on language-associated event-related potentials</a>
         authors: Kyriaki, L., Schlesewsky, M., & Bornkessel-Schlesewsky, I. 
         
       - title: <a href = "https://psyarxiv.com/zmqt2">Combining neurophysiological and psychological indicators to understand individual and team cognition and decision-making. (book chapter, in press)</a>
-        #link: "#https://psyarxiv.com/zmqt2"
         authors: Sinha, R., Kyriaki, L., Cross, R., Weigall, I. E., Chatburn, A. 
 
-      - title: <a href = "https://psyarxiv.com/u7hcg/">Thematic role assignment in non-default verb classes: A cross-linguistic comparison of English and German (preprint)</a>
-        #link: "#https://psyarxiv.com/u7hcg/"
+      - title: <a href = "https://psyarxiv.com/u7hcg">Thematic role assignment in non-default verb classes: A cross-linguistic comparison of English and German (preprint)</a>
         authors: Kyriaki, L., Schlesewsky, M., & Bornkessel-Schlesewsky, I. 
 
-      - title: <a href = "https://psyarxiv.com/cn93m/">The role of posterior superior temporal sulcus in English sentence processing: Testing predictions with Transcranial Magnetic Stimulation (preprint)</a>
-        #link: "#https://psyarxiv.com/cn93m/"
+      - title: <a href = "https://psyarxiv.com/cn93m">The role of posterior superior temporal sulcus in English sentence processing: Testing predictions with Transcranial Magnetic Stimulation (preprint)</a>
         authors: Kyriaki, L., Todd, G., Devlin, J. T., Schlesewsky, M., & Bornkessel-Schlesewsky, I. 
 
 
