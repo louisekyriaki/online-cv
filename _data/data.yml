@@ -49,20 +49,23 @@ education:
 
 publications:
     title: Publications
-    intro: Click the paper name to access the online article.
+    #intro: Click the paper name to access the online article.
     #For more, see <a href="https://linkhere">namehere</a>.
-    publications:
       - paper:
-        title: <a href="https://onlinelibrary.wiley.com/doi/10.1111/ejn.14862">Semantic reversal anomalies under the microscope: Task and modality influences on language-associated event-related potentials</a>
+        title: Semantic reversal anomalies under the microscope: Task and modality influences on language-associated event-related potentials
+        link: "https://onlinelibrary.wiley.com/doi/10.1111/ejn.14862"
         authors: Kyriaki, L., Schlesewsky, M., & Bornkessel-Schlesewsky, I. 
       - paper:        
-        title: <a href="https://psyarxiv.com/zmqt2">Combining neurophysiological and psychological indicators to understand individual and team cognition and decision-making. (book chapter, in press)</a>
+        title: Combining neurophysiological and psychological indicators to understand individual and team cognition and decision-making. (book chapter, in press)
+        link: "https://psyarxiv.com/zmqt2"
         authors: Sinha, R., Kyriaki, L., Cross, R., Weigall, I. E., Chatburn, A. 
       - paper:
-        title: <a href="https://psyarxiv.com/u7hcg">Thematic role assignment in non-default verb classes: A cross-linguistic comparison of English and German (preprint)</a>
+        title: Thematic role assignment in non-default verb classes: A cross-linguistic comparison of English and German (preprint)
+        link: "https://psyarxiv.com/u7hcg"
         authors: Kyriaki, L., Schlesewsky, M., & Bornkessel-Schlesewsky, I. 
       - paper:
-        title: <a href="https://psyarxiv.com/cn93m">The role of posterior superior temporal sulcus in English sentence processing: Testing predictions with Transcranial Magnetic Stimulation (preprint)</a>
+        title: The role of posterior superior temporal sulcus in English sentence processing: Testing predictions with Transcranial Magnetic Stimulation (preprint)
+        link: "https://psyarxiv.com/cn93m" 
         authors: Kyriaki, L., Todd, G., Devlin, J. T., Schlesewsky, M., & Bornkessel-Schlesewsky, I. 
 
 
