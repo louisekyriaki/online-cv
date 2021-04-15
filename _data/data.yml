@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Louise Kyriaki
     tagline: Academic Researcher
-    avatar: louise.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: louise.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     twitter: '@louisekyriaki'
@@ -22,9 +22,9 @@ career-profile:
       I am a research scientist in the fields of cognitive neuroscience and psychology.
       I have a particular interest in language processing at the sentence
       level and beyond. I have a strong focus on science replicability,
-      experimental methodology, and statistical analysis. I recently submitted my PhD
-      and am now working as a research associate in the Caring Futures Institute at Flinders University
-      in South Australia. 
+      experimental methodology, and statistical analysis. I am now working as a research associate in the 
+      Caring Futures Institute at Flinders University in South Australia. I am currently working on a number of projects 
+      in the research areas of childhood cognitive development, disability, and language processing. 
       
       My particular areas of experience/interest are:
       - electroencephalography
@@ -37,7 +37,7 @@ career-profile:
 education:
     - degree: PhD in Psychology (Cognitive Neuroscience)
       university: University of South Australia
-      time: 2016 - 2020
+      time: 2016 - 2021
       details: |
         My research investigated the functional neurobiology of human 
         language processing, using electroencephalography and non-invasive 
