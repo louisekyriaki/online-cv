@@ -15,6 +15,7 @@ output:
       in_header: GA_script.html
 # Tracker
 #analytics: UA-83979019-1
+google_analytics: G-8LTX6T10RZ
 
 # Sass/SCSS
 sass:
